@@ -1,3 +1,10 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore SAV files
+*.sav
+
+# Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
 README.nd
-.pdf
